@@ -6,13 +6,13 @@ const ItemList = () => {
     <>
         <h1>Item List</h1>
         <li>
-            <Link to="/items/1" >Item1</Link>
+            <Link to="/items/1" >Item 1</Link>
         </li>
         <li>
-            <Link to="/items/2" >Item2</Link>
+            <Link to="/items/2" >Item 2</Link>
         </li>
         <li>
-            <Link to="/items/3" >Item3</Link>
+            <Link to="/items/3" >Item 3</Link>
         </li>
     </>
   )
